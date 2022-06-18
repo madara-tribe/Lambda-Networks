@@ -8,8 +8,8 @@ def load_model():
     return model
 
 def main():
-    c = 256
+    c = 1028
     lamdaheads = 4
-    x = tf.random.normal(shape=(1, 16, 16, 256))
+    x = tf.random.normal(shape=(1, 16, 16, c))
     out = LambdaLayer(dim_k=c/lamdaheads, r=3, heads = lamdaheads, dim_out = c)(x)
     print(out.shape)
