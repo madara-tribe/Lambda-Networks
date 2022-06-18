@@ -7,18 +7,19 @@
 
 <img width="813" alt="スクリーンショット 2022-06-18 10 35 03" src="https://user-images.githubusercontent.com/48679574/174417444-ebc6626f-54f9-4cbe-bb83-0c82a488766f.png">
 
+# Performance
+```
 # Versions
 - Python 3.7.0
 - tensorflow 2.3.0
-
-# Performance
+```
 
 <b>task ：　Classify 11 color type and 2 shape type from 1 image</b>
 
 | Layers | param | accuracy(color's classify) |
 | :---         |     :---:      |          ---: |
 | without LambdaNetwork   | 4,460,013     | 65.02%    |
-| LambdaNetwork (+2).     | 4,660,461       | 72.31%(+7.29)    |
+| LambdaNetwork (+2).     | 4,660,461       | 72.31% (+7.29)    |
 | LambdaNetwork (+4).     | 4,692,621       | nnn     |
 
 
