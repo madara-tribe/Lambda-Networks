@@ -25,6 +25,7 @@ color, shape acc 0.6502636203866432 0.827768014059754
 
 ## Model with lambda-network 
 
+<img src="https://user-images.githubusercontent.com/48679574/174418583-98d0da06-6978-426c-88b7-657bda65394e.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/174418585-93933c75-8bdc-432f-972c-cb6db154704b.png" width="400px">
 
 
 # References
