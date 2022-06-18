@@ -24,16 +24,12 @@ def create_model(h, w, k=1, lr=1e-3):
     x = dw_conv(x1, nb_filter[i], k)
     x = res_block(x, k, nb_filter[i])
     x2 = res_block(x, k, nb_filter[i])
-    _, b02, b03, b04 = x2.shape
-    x2 = LambdaLayer(dim_k=b04/lambda_heads, r=3, heads=lambda_heads, dim_out=b04)(x2)
     i += 1
 
     #3
     x = dw_conv(x2, nb_filter[i], k)
     x = res_block(x, k, nb_filter[i])
     x3 = res_block(x, k, nb_filter[i])
-    _, b12, b13, b14 = x3.shape
-    x3 = LambdaLayer(dim_k=b14/lambda_heads, r=3, heads=lambda_heads, dim_out=b14)(x3)
     i += 1
 
     #4
