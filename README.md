@@ -15,6 +15,13 @@
 
 <b>task ：　Classify 11 color type and 2 shape type from 1 image</b>
 
+| Layers | param | accuracy(color's classify) |
+| :---         |     :---:      |          ---: |
+| without LambdaNetwork   | 4,460,013     | 0.6502636203866432    |
+| LambdaNetwork (+2).     | 4,660,461       | 0.7231985940246046      |
+| LambdaNetwork (+4).     | 4,692,621       | nnn     |
+
+
 ## Model without lambda-network 
 
 <b>Loss / Accuracy </b>
