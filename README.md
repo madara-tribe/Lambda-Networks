@@ -20,7 +20,6 @@
 | :---         |     :---:      |          ---: |
 | without LambdaNetwork   | 4,460,013     | 65.02%    |
 | LambdaNetwork (+2).     | 4,660,461       | 72.31% (+7.29)    |
-| LambdaNetwork (+4).     | 4,692,621       | nnn     |
 
 
 ## Model without lambda-network 
