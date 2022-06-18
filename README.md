@@ -1,8 +1,7 @@
 # Lambda-Networks
 
 
-<img src="https://user-images.githubusercontent.com/48679574/174417400-d9e3058e-0512-4f2e-8f4c-788b5975dbd0.png" width="600px">
-<img src="https://user-images.githubusercontent.com/48679574/174417435-1c095839-bc50-432e-99ab-dd995abfbdeb.png" width="600px">
+<img src="https://user-images.githubusercontent.com/48679574/174417400-d9e3058e-0512-4f2e-8f4c-788b5975dbd0.png" width="500px"><img src="https://user-images.githubusercontent.com/48679574/174417435-1c095839-bc50-432e-99ab-dd995abfbdeb.png" width="500px">
 
 
 ## Experriments
