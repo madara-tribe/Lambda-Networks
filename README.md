@@ -17,6 +17,12 @@
 
 ## Model without lambda-network 
 
+<b>Loss / Accuracy </b>
+
+color, shape acc 0.6502636203866432 0.827768014059754
+
+<img src="https://user-images.githubusercontent.com/48679574/174418438-6739db05-685d-4a34-b715-aeab1c81df7d.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/174418441-960ee8b4-5819-493a-95e4-57d38a149f61.png" width="400px">
+
 ## Model with lambda-network 
 
 
