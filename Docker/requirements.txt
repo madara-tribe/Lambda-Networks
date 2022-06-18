@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+matplotlib
+tqdm
+opencv-python
+einops
+easydict
+onnx
+onnxruntime
