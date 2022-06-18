@@ -7,7 +7,7 @@
 
 <img width="813" alt="スクリーンショット 2022-06-18 10 35 03" src="https://user-images.githubusercontent.com/48679574/174417444-ebc6626f-54f9-4cbe-bb83-0c82a488766f.png">
 
-# Performance
+# Self-Performance
 ```
 # Versions
 - Python 3.7.0
