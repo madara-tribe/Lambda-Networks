@@ -14,11 +14,11 @@
 
 # Performance
 
-<b>task ：　predict classify 11 color type and 2 shape type from 1 image</b>
+<b>task ：　Classify 11 color type and 2 shape type from 1 image</b>
 
-## model without lambda-network 
+## Model without lambda-network 
 
-## model with lambda-network 
+## Model with lambda-network 
 
 
 
